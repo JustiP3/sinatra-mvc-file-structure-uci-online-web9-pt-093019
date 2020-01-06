@@ -8,4 +8,4 @@ class Dog
     @breed = breed
     @@all.push(self)
   end
-end 
+end
